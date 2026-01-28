@@ -1,7 +1,7 @@
-    Obiettivo del progetto
+_    Obiettivo del progetto
 L’obiettivo del progetto è analizzare un dataset sulla qualità del vino rosso e sviluppare un modello di machine learning in grado di classificare un vino come di buona o bassa qualità sulla base delle sue caratteristiche chimiche.
 
-    Dataset utilizzato
+_   Dataset utilizzato
 Il dataset contiene diverse variabili chimico-fisiche del vino, tra cui:
 -  acidità fissa e volatile
 -  acido citrico
